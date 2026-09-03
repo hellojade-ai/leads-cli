@@ -1,0 +1,16 @@
+# binaries and build output
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+coverage.*
+
+# editor and OS noise
+.idea/
+.vscode/
+.DS_Store
+
+# never commit a key
+.env
+*.env
