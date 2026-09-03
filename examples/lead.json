@@ -1,0 +1,18 @@
+{
+  "external_id": "acme-leads:A-99812",
+  "first_name": "Dana",
+  "last_name": "Whitfield",
+  "phone": "(630) 555-0142",
+  "email": "dana.whitfield@example.com",
+  "street_address": "418 N Maple St",
+  "city": "Naperville",
+  "state": "IL",
+  "zip": "60540",
+  "country": "US",
+  "project_area": "roof",
+  "project_service": "replacement",
+  "project_material": "asphalt shingle",
+  "project_details": "Hail damage on the south slope, insurance claim already filed.",
+  "cost": 555.55,
+  "partner_job_id": "XZ-1"
+}
