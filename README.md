@@ -19,7 +19,7 @@ key, read the live vocabulary, probe health, from a shell script or a terminal.
 | OpenAPI 3.0 contract | <https://intake.hellojade.ai/api/openapi.json> |
 | Integration brief (the eight rules) | <https://intake.hellojade.ai/api/INTEGRATION.md> |
 | Becoming a lead provider | <https://hellojade.ai/developers/provide-leads> |
-| Other kits | [Go](https://github.com/hellojade-ai/leads-go) · [Node](https://github.com/hellojade-ai/leads-node) · [Python](https://github.com/hellojade-ai/leads-python) · [Ruby](https://github.com/hellojade-ai/leads-ruby) · [.NET](https://github.com/hellojade-ai/leads-dotnet) · [Rust](https://github.com/hellojade-ai/leads-rust) · [Browser JS](https://github.com/hellojade-ai/leads-js) |
+| Other kits | [Go](https://github.com/hellojade-ai/leads-go) · [Node](https://github.com/hellojade-ai/leads-node) · [Python](https://github.com/hellojade-ai/leads-python) · [Ruby](https://github.com/hellojade-ai/leads-ruby) · [.NET](https://github.com/hellojade-ai/leads-dotnet) · [PHP](https://github.com/hellojade-ai/leads-php) · [Rust](https://github.com/hellojade-ai/leads-rust) · [Browser JS](https://github.com/hellojade-ai/leads-js) |
 
 ## Install
 
